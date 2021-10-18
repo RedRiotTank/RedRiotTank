@@ -1,8 +1,6 @@
 ### Hello :earth_africa:!
 
-I'm RedRiotTank, a computer science student in the University of Granada! I'm here to learn, learn and learn more. This is my little place!
 
-Here are some ideas to get you started:
 
 
 
