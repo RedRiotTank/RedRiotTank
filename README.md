@@ -9,7 +9,7 @@
 
 - 👾 I'm interested in **graphics and renderization**
 
-- 🦓 U can download my bukkit resources there [https://www.spigotmc.org/resources/authors/redriottank.1346208/](https://www.spigotmc.org/resources/authors/redriottank.1346208/)
+- 🦓 U can download my bukkit resources [there](https://www.spigotmc.org/resources/authors/redriottank.1346208/](https://www.spigotmc.org/resources/authors/redriottank.1346208/)
 
 - 💬 Ask me about **Java and Bukkit library**
 
