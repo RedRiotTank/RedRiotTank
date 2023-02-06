@@ -1,9 +1,9 @@
 <h1 align="center">Hello everyone! I'm RedRiotTank</h1>
 <h3 align="center">A computer science student at UGR, in the information systems speciality.</h3>
 
-- 🔭 I’m currently working on [HTTBows, a bows plugin for minecraft server](https://www.spigotmc.org/resources/httbows.105117/)
+- 🔭 I’m currently working on OPhabs, a One Piece minecraft plugin!
 
-- 🌱 I’m currently learning **Blender!**
+- 🌱 I’m currently learning **MongoBD**
 
 - 👯 I’m looking to collaborate on **any kind of plugin development with bukkit.**
 
