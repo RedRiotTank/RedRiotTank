@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone! I'm RedRiotTank</h1>
+<h1 align="center">Hello everyone! I'm Alberto Plaza</h1>
 <h3 align="center">A computer science student at UGR, in the information systems speciality.</h3>
 
 Thanks you very much for reading, I'm **Alberto Plaza Montes**, I'm specializing in **information systems**, with an emphasis on **database administration**. I'm also a **spigot plugins developer** in my free time!
