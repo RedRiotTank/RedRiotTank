@@ -31,8 +31,8 @@
 
 ### 👾 Key Projects
 - **[RedBlockChain-core](https://github.com/RedRiotTank/RedBlockChain-core)**: Custom P2P Blockchain core in Java implementing transaction validation and node architecture.
-- **[Pseudorandomometric-API](https://github.com/RedRiotTank)**: High-volume synthetic data generator using Kotlin/Spring Boot with SecureRandom cryptographic standards.
-- **[HTT-Plugins](https://github.com/RedRiotTank)**: Leadership in Java middleware for Minecraft environments, handling 5,000+ concurrent users.
+- **[Pseudorandomometric-API](https://github.com/RedRiotTank/PseudorandomometricSequencesApi)**: High-volume synthetic data generator using Kotlin/Spring Boot with SecureRandom cryptographic standards.
+- **[HTT-Plugins](https://github.com/HTTplugins/OPhabs)**: Leadership in Java middleware for Minecraft environments, handling 5,000+ concurrent users.
 
 ---
 
