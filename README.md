@@ -1,58 +1,41 @@
-<h1 align="center">Hello everyone! I'm Alberto Plaza</h1>
-
-I'm a software engineer specialized in information systems, working in fintech on Keifi Technologies and studying a Computer Engineering master in the UGR postgraduate school.
-
-- 🔭 Experienced with **java**, now taking the step towards **kotlin**
-
-- 🛠️ Data Bases is also part of my speciality so I'm willing to **optimize databases designs**  
-  
-- 👾 I'm also a **plugin for minecraft servers** developer
-
-- 👯 Always looking to take part and **collaborate** in cool projects
-
-- 📫 How to reach me **albertoplazamontesdm@gmail.com** or **[Linkedin](https://www.linkedin.com/in/alberto-plaza-montes-412a57215/ "Linkedin")**
-
-<h3 align="left">Languages and Tools I use daily:</h3>
-
-<p align="left">
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-	<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" alt="java" width="40" height="40"/> </a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="java" width="40" height="40"/> </a>
-	<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="java" width="40" height="40"/> </a>
-	<a href="https://www.spigotmc.org" target="_blank" rel="noreferrer"> <img src="https://static.spigotmc.org/img/spigot-og.png" alt="spigot" width="40" height="40"/></a>
+<h1 align="center">Alberto Plaza Montes, M.Sc.</h1>
+<p align="center">
+  <b>Backend Software Engineer | High-Availability Fintech Infrastructure Specialist</b><br>
+  M.Sc. in Computer Engineering @ Universidad de Granada
 </p>
 
-<h3 align="left">I'm currently learnign:</h3>
-
-<p align="left">
-	<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/09d1375a-8e4e-44bc-88e5-1360447de636" alt="kotlin" width="40" height="40"/> </a>
-	<a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b02eefdf-93f3-440a-b76b-d28643a5c983" alt="hadoop" width="33" height="40"/> </a>
-	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/fa3c21b1-7ab5-4740-a41b-f59a494fa71e" alt="jenkins" width="29" height="40"/> </a>
-	
+<p align="center">
+  <a href="https://www.linkedin.com/in/alberto-plaza-montes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:albertoplazamontesdm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools I know:</h3>
+---
+
+### 🔭 Professional Profile
+- 🚀 **Fintech Engineering**: Specialized in building and optimizing high-throughput payment and reconciliation systems for major Spanish institutions.
+- 🏗️ **Architecture & Design**: Expert in **DDD**, Event-Driven systems, and scalable Financial APIs.
+- 🎓 **Research & Methodology**: Author of a reference framework for financial software based on **BIAN/PSD2** standards, ensuring compliance-by-design (**DORA, GDPR, AML**).
+- ⚡ **Performance Optimization**: Advanced knowledge in JVM tuning, **Java 17/21 Virtual Threads**, and high-concurrency patterns.
+
+### 🛠️ Core Stack & Tools
 <p align="left">
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-	<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-	<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
- 	<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="mariadb" width="40" height="40"/> </a>
-  	<a href="https://maxima.sourceforge.io/es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Maxima-new.svg/1200px-Maxima-new.svg.png" alt="mariadb" width="40" height="40"/> </a> 
-  	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Java_17/21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" />
 </p>
-  
-<h3 align="left">I'm insterested in:</h3>
-  
-<p align="left"> 
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+
+### 👾 Key Projects
+- **[RedBlockChain-core](https://github.com/RedRiotTank/RedBlockChain-core)**: Custom P2P Blockchain core in Java implementing transaction validation and node architecture.
+- **[Pseudorandomometric-API](https://github.com/RedRiotTank)**: High-volume synthetic data generator using Kotlin/Spring Boot with SecureRandom cryptographic standards.
+- **[HTT-Plugins](https://github.com/RedRiotTank)**: Leadership in Java middleware for Minecraft environments, handling 5,000+ concurrent users.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RedRiotTank&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alberto's GitHub Stats" />
 </p>
