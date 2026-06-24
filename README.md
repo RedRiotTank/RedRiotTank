@@ -30,10 +30,9 @@
 </p>
 
 ### 👾 Key Projects
-- **[RedBlockChain-core](https://github.com/RedRiotTank/RedBlockChain-core)**: Custom P2P Blockchain core in Java implementing transaction validation and node architecture.
-- **[Pseudorandomometric-API](https://github.com/RedRiotTank/PseudorandomometricSequencesApi)**: High-volume synthetic data generator using Kotlin/Spring Boot with SecureRandom cryptographic standards.
-- **[HTT-Plugins](https://github.com/HTTplugins/OPhabs)**: Leadership in Java middleware for Minecraft environments, handling 5,000+ concurrent users.
-
+- **[PseudorandomometricSequencesApi](https://github.com/RedRiotTank/PseudorandomometricSequencesApi)**: A self-hosted Spring Boot REST API built with Kotlin to generate parameterizable pseudo-random number sequences across various statistical distributions.
+- **[One Piece Habs](https://github.com/HTTplugins/OPhabs)**: Minecraft server plugin to recreate One Piece abilities.
+- **[Native Json Navigator](https://github.com/RedRiotTank/NativeJsonNavigator)**: A high-performance Java 21 JSON navigator that operates directly on off-heap memory using bit-packed primitive pointers via Project Panama.
 ---
 
 <p align="center">
